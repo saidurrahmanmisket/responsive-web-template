@@ -19,7 +19,15 @@
 }
 .header{
     width: 100%;
+    position: relative;
 }
+
+/* .header_text{
+    position: absolute;
+    right: 200px;
+    top: 200px;
+    font-size: 30px;
+} */
 
 .header_img{
 
